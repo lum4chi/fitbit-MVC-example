@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "11ec4ed3-6873-445a-9995-514e46ebd8b3",
+    "appType": "app",
+    "appDisplayName": "MVC-example",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#f44336",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "MVC-example"
+      }
+    }
+  }
+}

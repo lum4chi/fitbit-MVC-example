@@ -1,0 +1,12 @@
+<svg class="background">
+  <!-- This is the MainView GUI description -->
+  <svg id="main-view" display="none">
+    <use id="example-button" href="#square-button" fill="fb-white">
+      <set href="#text" attributeName="text-buffer" to="Some text" />
+    </use>
+  </svg>
+  <!-- This is the AnotherView GUI description -->
+  <svg id="another-view" display="none">
+    <text id="example-text" fill="fb-white" x="50%" y="50%">Some text</text>
+  </svg>
+</svg>
